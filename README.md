@@ -1,2 +1,2 @@
 # doglloverhub.github.io
-trial websiote
+trial website
